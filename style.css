@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(13, 26, 45)
+}
+
+    /* .final{
+        display: flex;
+    } */
+
+.qrcode{
+    width: 300px;
+    background-color: rgb(253, 203, 137);
+    height: 450px;
+    box-shadow: 0px 10px 8px 10px rgb(238, 100, 100);
+    position: fixed;
+    inset: 0;
+    padding: 10px;
+    border-radius: 15px;
+    margin: auto;
+    /* float: left; */
+}
+
+img{
+    /* background-size: cover; */
+    width: 100%;
+    border-radius: 15px;
+}
+
+.danny{
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 89px;
+}
+
+.img2{
+    /* justify-self: center; */
+    /* padding-left: 5px// */
+    display: flex;
+    align-items: center;
+}
+
+.abc{
+    padding-left: 20px;
+}
